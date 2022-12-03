@@ -1,13 +1,14 @@
-<h1 align="left">Hello 🌍, I'm Phumin Abdul Hameed</h1>
-<h3 align="left">Web Developer & Designer - [phumzxter.dev](phumzxter.dev) </h3>
+# Hello 🌍, I'm Phumin Abdul Hameed
+
+Web Developer & Designer - [Website](phumzxter.com)
 
 - 🧠 I’m currently learning **Nextjs & Tailwind**
 
-- 👨‍💻 All of my projects are available at [phumzxter.dev](phumzxter.dev)
+- 👨‍💻 All of my work are available at [work](phumzxter.com/work)
 
-- 📝 I am planning to regularly write articles on [phumzxter.dev/blog](Blog)
+- 📚 [A MERN project](https://github.com/cydavidh/Tutify) I've recently worked on
 
-- 📄 Know about my experiences [phumzxter.dev/resume](phumzxter.dev/resume)
+- 📄 Know about my experiences [resume](phumzxter.com/resume)
 
 - 📫 How to reach me **phumin786@gmail.com**
 
