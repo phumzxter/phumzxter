@@ -1,12 +1,12 @@
-# Hello 🌍, I'm Phumin Abdul Hameed
+# Hello 🌍, I'm Phumin Abdul Hameed.
 
-[Web Developer & Designer](phumzxter.com)
+- 🌏 [Web Developer & Designer](phumzxter.com) based in Bangkok, Thailand
 
 - 🧠 I’m currently learning **Nextjs & Tailwind**
 
 - 👨‍💻 All of my work are available at [work](phumzxter.com/work)
 
-- 📚 [A MERN project](https://github.com/cydavidh/Tutify) I've recently worked on
+- 📚 [A MERN project](https://github.com/phumzxter/Tutify) I've recently worked on
 
 - 📄 Know about my experiences [resume](phumzxter.com/resume)
 
