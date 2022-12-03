@@ -4,7 +4,7 @@
 
 - 🧠 I’m currently learning **Nextjs & Tailwind**
 
-- 👨‍💻 All of my work are available at [work](phumzxter.com/work)
+- 👨‍💻 View all of my [Work](phumzxter.com/work) by clicking
 
 - 📚 [A MERN project](https://github.com/phumzxter/Tutify) I've recently worked on
 
