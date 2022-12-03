@@ -1,6 +1,6 @@
 # Hello 🌍, I'm Phumin Abdul Hameed
 
-Web Developer & Designer - [Website](phumzxter.com)
+[Web Developer & Designer](phumzxter.com)
 
 - 🧠 I’m currently learning **Nextjs & Tailwind**
 
