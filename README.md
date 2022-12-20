@@ -2,19 +2,19 @@
 
 - 🌏 [Web Developer & Designer](phumzxter.com) based in Bangkok, Thailand
 
-- 🧠 I’m currently learning **Nextjs & Tailwind**
+- 🧠 I’m currently learning **Reactjs & Tailwind**
 
-- 👨‍💻 View all of my [Work](phumzxter.com/work) by clicking
+- 👨‍💻 Click to view all of my [Work](https://github.com/phumzxter?tab=repositories)
 
-- 📚 [A MERN project](https://github.com/phumzxter/Tutify) I've recently worked on
+- 📚 [A MERN project](https://github.com/phumzxter/Au-Tutify) I've recently worked on
 
-- 📄 Know about my experiences [resume](phumzxter.com/resume)
+- 📄 Know about my experiences [resume](https://github.com/phumzxter/Resume/blob/main/README.md)
 
 - 📫 How to reach me **phumin786@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/phumin-abdul-hameed](https://www.linkedin.com/in/phumin-abdul-hameed-212b341a1/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phumzxter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/phumin-abdul-hameed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phumzxter" height="30" width="40" /></a>
 <a href="https://twitter.com/phumzxterr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="phumzxterr" height="30" width="40" /></a>
 <a href="https://instagram.com/phumzxter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="phumzxter" height="30" width="40" /></a>
 </p>
