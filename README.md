@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-Hello, I'm Phumin Abdul Hameed.
+**Hello, I'm Phumin Abdul Hameed.**
 <br>🌏 [Web Developer & Designer](phumzxter.com) based in Bangkok, Thailand
 <br>🧠 I’m currently learning Reactjs & Tailwind
 <br>👨‍💻 Click to view all of my [Work](https://github.com/phumzxter?tab=repositories)
