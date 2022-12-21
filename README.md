@@ -3,19 +3,13 @@
 Hello, I'm Phumin Abdul Hameed.
 
 <br>🌏 [Web Developer & Designer](phumzxter.com) based in Bangkok, Thailand
-
 <br>🧠 I’m currently learning Reactjs & Tailwind
-
 <br>👨‍💻 Click to view all of my [Work](https://github.com/phumzxter?tab=repositories)
-
 <br>📚 [A MERN project](https://github.com/phumzxter/Au-Tutify) I've recently worked on
-
 <br>📄 Know about my experiences [resume](https://github.com/phumzxter/Resume/blob/main/README.md)
-
 <br>📫 How to reach me phumin786@gmail.com<br>
 
-
-## 🌐 Socials:
+# 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/phumzxter) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phumin-abdul-hameed-212b341a1/) 
