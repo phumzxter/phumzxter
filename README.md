@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Phumin Abdul Hameed.
+Hello, I'm Phumin Abdul Hameed. [![](https://visitcount.itsvg.in/api?id=phumzxter&icon=5&color=1)](https://visitcount.itsvg.in)
 <br>🌏 [Web Developer & Designer](phumzxter.com) based in Bangkok, Thailand
 <br>🧠 I’m currently learning Reactjs & Tailwind
 <br>👨‍💻 Click to view all of my [Work](https://github.com/phumzxter?tab=repositories)
